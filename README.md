@@ -16,7 +16,7 @@
 
 # Create and deploy a basic Python Flask application
 
-> We have similar applications available for [Go](https://github.com/IBM/go-starter), [Java Liberty](https://github.com/IBM/java-liberty-starter), [Swift](https://github.com/IBM/swift-starter), [Python Flask](https://github.com/IBM/flask-starter), and [Node](https://github.com/IBM/nodejs-starter).
+> We have similar applications available for [Go](https://github.com/IBM/go-starter), [Java Liberty](https://github.com/IBM/java-liberty-starter), [Swift](https://github.com/IBM/swift-starter), [Spring](https://github.com/IBM/spring-starter), and [Node](https://github.com/IBM/nodejs-starter).
 
 In this sample application, you will create a basic Python application using Flask. This application contains an opinionated set of files for web serving:
 
