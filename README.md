@@ -14,7 +14,7 @@
 </p>
 
 
-# Create and deploy a basic Java Spring application
+# Create and deploy a basic Python Flask application
 
 > We have similar applications available for [Go](https://github.com/IBM/go-starter), [Java Liberty](https://github.com/IBM/java-liberty-starter), [Swift](https://github.com/IBM/swift-starter), [Python Flask](https://github.com/IBM/flask-starter), and [Node](https://github.com/IBM/nodejs-starter).
 
